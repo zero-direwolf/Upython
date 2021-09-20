@@ -1,2 +1,2 @@
 # Upython
-running from ubuntu.
+running from Ubuntu
